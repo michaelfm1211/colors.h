@@ -16,6 +16,11 @@
  * IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
+/*
+ * colors.h - single header colors in C
+ * https://github.com/michaelfm1211/colors.h
+ */
+
 #pragma once
 
 /*
