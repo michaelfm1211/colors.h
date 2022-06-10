@@ -7,8 +7,8 @@ the occasional comment. For the `C_256()` macro, see
 for a table of colors, or use the `C_RGB()` macro.
 
 ### Example
-Print " aloha " in dark red text (color 52 in 256-color mode), with a yellow
-background, and make it both bold and blinking text.
+Print " aloha " in dark red text (color 52 in 256-color mode), with a birght
+yellow background, and make it both bold and blinking text.
  ```c
 #include <stdio.h>
 #include "colors.h"
