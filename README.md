@@ -22,3 +22,9 @@ int main() {
  Output:
  
  ![example-gif](./example.gif)
+
+### License
+colors.h is licensed under the
+[ISC License](https://choosealicense.com/licenses/isc/). The license is also at
+the top of the colors.h header file. If you copy colors.h into your project's
+source code, do not remove the license from the header file.
