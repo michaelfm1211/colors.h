@@ -23,6 +23,16 @@ int main() {
  
  ![example-gif](./example.gif)
 
+### Documentation
+There is no official documentation. Instead, you should read the header's
+source code. However, the behavior of all the macros can be inferred from their
+names. Any macro prefixed by `SGR` is a Select Graphic Rendition code and
+modifies how your terminal displays text, while any macro prefixed by `C` is a
+color code. Colors can be prefixed by two other abbreviations: `BG` to set the
+background color (the default is to set the foreground color) and `BR` to use a
+bright version of the color. If both `BG` and `BR` are used, `BG` always comes
+first.
+
 ### License
 colors.h is licensed under the
 [ISC License](https://choosealicense.com/licenses/isc/). The license is also at
